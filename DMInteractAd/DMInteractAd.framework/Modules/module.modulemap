@@ -1,0 +1,6 @@
+framework module DMInteractAd {
+  umbrella header "DMInteractAd.h"
+
+  export *
+  module * { export * }
+}
