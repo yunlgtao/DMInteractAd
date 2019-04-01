@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "DMInteractAd"
-  s.version      = "0.0.5"
+  s.version      = "0.0.6"
   s.summary      = "DMInteractAdFramework used on ios"
   s.description  = <<-DESC
 豆盟互动广告ios sdk DMInteractAdFramework used on ios
